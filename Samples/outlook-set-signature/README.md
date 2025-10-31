@@ -162,8 +162,8 @@ The following `<Runtime>` element specifies an HTML page resource ID that loads 
 <Runtime resid="Autorun">
   <Override type="javascript" resid="runtimeJs"/>
 ...
-<bt:Url id="Autorun" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-set-signature/src/runtime/HTML/autorunweb.html"></bt:Url>
-<bt:Url id="runtimeJs" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-set-signature/src/runtime/Js/autorunshared.js"></bt:Url>
+<bt:Url id="Autorun" DefaultValue="https://vilit1.github.io/office-addin/Samples/outlook-set-signature/src/runtime/HTML/autorunweb.html"></bt:Url>
+<bt:Url id="runtimeJs" DefaultValue="https://vilit1.github.io/office-addin/Samples/outlook-set-signature/src/runtime/Js/autorunshared.js"></bt:Url>
 ```
 
 The add-in handles two events that are mapped to the `checkSignature()` function.
@@ -271,7 +271,7 @@ Template B shows how to reference an image from the HTML. It uses the `<img>` ta
 
 ```xml
  str +=
-    "<td style='border-right: 1px solid #000000; padding-right: 5px;'><img src='https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-set-signature/assets/sample-logo.png' alt='Logo' /></td>";
+    "<td style='border-right: 1px solid #000000; padding-right: 5px;'><img src='https://vilit1.github.io/office-addin/Samples/outlook-set-signature/assets/sample-logo.png' alt='Logo' /></td>";
 ```
 
 This is a simpler approach as you don't need to attach the image. Although your web server will need to provide the image anytime Outlook needs it for a signature.

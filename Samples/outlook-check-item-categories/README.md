@@ -181,8 +181,8 @@ The manifest configures a runtime to handle event-based activation. Because the 
         <Override type="javascript" resid="JSRuntime.Url"/>
     </Runtime>
     ...
-    <bt:Url id="WebViewRuntime.Url" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-check-item-categories/src/commands.html" />
-    <bt:Url id="JSRuntime.Url" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-check-item-categories/src/commands/commands.js" />
+    <bt:Url id="WebViewRuntime.Url" DefaultValue="https://vilit1.github.io/office-addin/Samples/outlook-check-item-categories/src/commands.html" />
+    <bt:Url id="JSRuntime.Url" DefaultValue="https://vilit1.github.io/office-addin/Samples/outlook-check-item-categories/src/commands/commands.js" />
     ```
 
 Additionally, the events that activate the add-in are specified in the manifest and mapped to their respective handler functions. The markup varies depending on the manifest your add-in uses.

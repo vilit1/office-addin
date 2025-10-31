@@ -22,7 +22,7 @@
             {
                 "type": "image",
                 "order": 100,
-                "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/images/word-ribbon-buttons.png",
+                "url": "https://vilit1.github.io/office-addin/Samples/office-add-in-commands/images/word-ribbon-buttons.png",
                 "alt": "Screenshot showing the sample's show task pane button and a dropdown menu on the ribbon."
             }
         ],

@@ -2,7 +2,7 @@
 // Licensed under the MIT License.
 
 const dataSourceUrl =
-  "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/excel-insert-file";
+  "https://vilit1.github.io/office-addin/Samples/excel-insert-file";
 
 Office.onReady((info) => {
   if (info.host === Office.HostType.Excel) {

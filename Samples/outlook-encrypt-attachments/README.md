@@ -154,8 +154,8 @@ The manifest configures a runtime that loads a single JavaScript file to handle 
 <Runtime resid="WebViewRuntime.Url">
   <Override type="javascript" resid="JSRuntime.Url"/>
 ...
-<bt:Url id="WebViewRuntime.Url" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-encrypt-attachments/src/commands/commands.html" />
-<bt:Url id="JSRuntime.Url" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-encrypt-attachments/src/commands/commands.js" />
+<bt:Url id="WebViewRuntime.Url" DefaultValue="https://vilit1.github.io/office-addin/Samples/outlook-encrypt-attachments/src/commands/commands.html" />
+<bt:Url id="JSRuntime.Url" DefaultValue="https://vilit1.github.io/office-addin/Samples/outlook-encrypt-attachments/src/commands/commands.js" />
 ```
 
 The add-in handles six events that are mapped to various functions.

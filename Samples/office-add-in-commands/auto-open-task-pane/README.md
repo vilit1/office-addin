@@ -68,11 +68,11 @@ This sample is hosted directly from this GitHub repo. Use the following steps to
 1. On the **Insert** tab, choose **Add-ins**.
 1. On the **Office Add-ins** dialog, select the **MY ADD-INS** tab, choose **Manage My Add-ins**, and then **Upload My Add-in**.
 
-    ![The Office Add-ins dialog with a drop-down in the upper right reading "Manage my add-ins" and a drop-down below it with the option "Upload My Add-in"](https://vilit-officedev.github.io/Office-Add-in-samples/Samples/hello-world/images/office-add-ins-word-web.png)
+    ![The Office Add-ins dialog with a drop-down in the upper right reading "Manage my add-ins" and a drop-down below it with the option "Upload My Add-in"](https://vilit1.github.io/office-addin/Samples/hello-world/images/office-add-ins-word-web.png)
 
 1. Browse to the add-in manifest file, and then select **Upload**. Browse to the location of the **manifest.xml** file and upload it.
 
-    ![The upload add-in dialog with buttons for browse, upload, and cancel.](https://vilit-officedev.github.io/Office-Add-in-samples/Samples/hello-world/images/office-upload-add-ins-word-web.png)
+    ![The upload add-in dialog with buttons for browse, upload, and cancel.](https://vilit1.github.io/office-addin/Samples/hello-world/images/office-upload-add-ins-word-web.png)
 
 1. On the **Home** tab, choose the **Auto-open Sample** button to display the task pane of the add-in.
 1. Choose **Set auto-open ON**. Then, close and reopen the document. The add-in will open automatically. If you choose **Set auto-open OFF**, then when you reopen the document, the task pane will not open.

@@ -22,7 +22,7 @@
             {
                 "type": "image",
                 "order": 100,
-                "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/Excel.OfflineStorageAddin/assets/office-offline-storage-overview.jpg",
+                "url": "https://vilit1.github.io/office-addin/Samples/Excel.OfflineStorageAddin/assets/office-offline-storage-overview.jpg",
                 "alt": "Diagram showing Office Add-in accessing storage when not connected to the web."
             }
         ],

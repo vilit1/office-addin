@@ -6,7 +6,7 @@
 //The following function defines and returns the JSON object that describes the contextual tabs.
 //Make changes to the JSON text if you want to modify the contextual tabs.
 function getContextualRibbonJSON() {
-    const sourceUrl = "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/office-contextual-tabs/";
+    const sourceUrl = "https://vilit1.github.io/office-addin/Samples/office-contextual-tabs/";
   return {
     "actions": [
         {

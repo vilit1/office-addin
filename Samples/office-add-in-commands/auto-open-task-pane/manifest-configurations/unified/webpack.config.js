@@ -5,7 +5,7 @@ const CopyWebpackPlugin = require("copy-webpack-plugin");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 const urlDev = "https://localhost:3000/";
-const urlProd = "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/office-add-in-commands/auto-open-task-pane/"; 
+const urlProd = "https://vilit1.github.io/office-addin/Samples/office-add-in-commands/auto-open-task-pane/"; 
 
 async function getHttpsOptions() {
   const httpsOptions = await devCerts.getHttpsServerOptions();
