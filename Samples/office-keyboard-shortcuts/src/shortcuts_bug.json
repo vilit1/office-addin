@@ -1,0 +1,28 @@
+{
+    "actions": [
+        {
+            "id": "SHOWTASKPANE",
+            "type": "ExecuteFunction",
+            "name": "${resource.ShowTaskpane_action_name}"
+        },
+        {
+            "id": "HIDETASKPANE",
+            "type": "ExecuteFunction",
+            "name": "${resource.HideTaskpane_action_name}"
+        }
+    ],
+    "shortcuts": [
+        {
+            "action": "SHOWTASKPANE",
+            "key": {
+                "default": "${resource.ShowTaskpane_default_shortcut}"
+            }
+        },
+        {
+            "action": "HIDETASKPANE",
+            "key": {
+                "default": "${resource.HideTaskpane_default_shortcut}"
+            }
+        }
+    ] 
+}
