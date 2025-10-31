@@ -24,7 +24,7 @@
         {
           "type": "image",
           "order": 100,
-          "url": "https://officedev.github.io/Office-Add-in-samples/Samples/office-contextual-tabs/pnp-add-contextual-tabs-to-your-add-in.png",
+          "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/office-contextual-tabs/pnp-add-contextual-tabs-to-your-add-in.png",
           "alt": "Screenshot that shows when a table in Excel has the focus, a custom contextual tab named Table Data is shown on the ribbon."
         }
       ],

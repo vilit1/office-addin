@@ -210,8 +210,8 @@ The manifest configures the runtime to handle event-based activation. Because th
         "id": "event_runtime",
         "type": "general",
         "code": {
-            "page": "https://officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.html",
-            "script": "https://officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.js"
+            "page": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.html",
+            "script": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.js"
         },
         ...
       },
@@ -228,8 +228,8 @@ The manifest configures the runtime to handle event-based activation. Because th
         <Override type="javascript" resid="JSRuntime.Url"/>
     </Runtime>
     ...
-    <bt:Url id="JSRuntime.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.js"/>
-    <bt:Url id="WebViewRuntime.Url" DefaultValue="https://officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.html"/>
+    <bt:Url id="JSRuntime.Url" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.js"/>
+    <bt:Url id="WebViewRuntime.Url" DefaultValue="https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/src/launchevent/launchevent.html"/>
     ```
 
 The manifest also maps the events that activate the add-in to the functions that handle each event.

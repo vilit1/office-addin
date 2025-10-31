@@ -24,7 +24,7 @@
             {
                 "type": "image",
                 "order": 100,
-                "url": "https://officedev.github.io/Office-Add-in-samples/Samples/outlook-encrypt-attachments/assets/readme/outlook-encrypt-attachments-overview.png",
+                "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-encrypt-attachments/assets/readme/outlook-encrypt-attachments-overview.png",
                 "alt": "Diagram showing a hello project consists of a manifest, HTML page, and image assets."
             }
         ],

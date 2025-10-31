@@ -22,7 +22,7 @@
             {
                 "type": "image",
                 "order": 100,
-                "url": "https://officedev.github.io/Office-Add-in-samples/Samples/office-keyboard-shortcuts/assets/office-keyboard-shortcuts-overview.jpg",
+                "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/office-keyboard-shortcuts/assets/office-keyboard-shortcuts-overview.jpg",
                 "alt": "The sample's task pane displaying a list of available keyboard shortcuts."
             }
         ],

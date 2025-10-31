@@ -28,7 +28,7 @@
             {
                 "type": "image",
                 "order": 100,
-                "url": "https://officedev.github.io/Office-Add-in-samples/Samples/outlook-tag-external/images/open-in-teams-diagram.png",
+                "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-tag-external/images/open-in-teams-diagram.png",
                 "alt": "Sequence diagram showing an \"Open in Microsoft Teams\" button on your web site that creates a message in Teams with a link to the spreadsheet with your data which contains your add-in."
             }
         ],

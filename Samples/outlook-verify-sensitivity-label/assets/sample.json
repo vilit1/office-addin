@@ -26,7 +26,7 @@
             {
                 "type": "image",
                 "order": 100,
-                "url": "https://officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/assets/outlook-verify-sensitivity-label.png",
+                "url": "https://vilit-officedev.github.io/Office-Add-in-samples/Samples/outlook-verify-sensitivity-label/assets/outlook-verify-sensitivity-label.png",
                 "alt": "The Smart Alert dialog notifying the sender that the sensitivity label was updated to Highly Confidential because of the presence of an attachment or the email address of a Fabrikam legal team member in the message."
             }
         ],
