@@ -38,24 +38,14 @@
         {
             "action": "RunAction",
             "key": {
-                "default": "Ctrl+Alt+3"
+                "default": "Ctrl+Alt+4"
             }
         },
         {
             "action": "TestConflict",
             "key": {
-                "default": "Ctrl+4"
+                "default": "Ctrl+R"
             }
         }
-    ],
-    "resources": { 
-        "default": { 
-            "ShowTaskpane_default_shortcut": { 
-                "value": "CTRL+SHIFT+A"
-            }, 
-            "ShowTaskpane_action_name": {
-                "value": "Show task pane for add-in"
-            } 
-        }
-    }
+    ]
 }
